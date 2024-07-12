@@ -1,0 +1,14 @@
+{
+  "defaultLanguageCode": "en",
+  "timeZone": "America/Los_Angeles",
+  "projectNumber": 589679512714,
+  "startFlow": "Default Start Flow",
+  "advancedSettings": {
+    "loggingSettings": {
+    
+    }
+  },
+  "genAppBuilderSettings": {
+    "engine": "projects/589679512714/locations/global/collections/default_collection/engines/historyhelper_1720709828215"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "6b3903f1-bc04-4117-bbea-0b9cf76c86d7",
+  "displayName": "History Generator",
+  "placeholders": [ {
+    "id": "request",
+    "name": "request"
+  } ],
+  "modelParameter": {
+    "temperature": 0.5,
+    "maxDecodeSteps": 128,
+    "topP": 0.94999999,
+    "topK": 40
+  },
+  "llmModelSettings": {
+    "model": "gemini-1.5-flash"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "promptTexts": [ {
+    "text": "$request.generative.response",
+    "languageCode": "en"
+  } ]
+}
