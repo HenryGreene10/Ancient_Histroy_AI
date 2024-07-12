@@ -1,4 +1,4 @@
-# Ancient_Histroy_AI
+# Ancient Histroy AI
 VertexAI Chatbot with knowledge of ancient history.
 
 A Dialogflow CX agent practice exercise to show understanding of cloud technologies and AI.
