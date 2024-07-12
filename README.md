@@ -38,8 +38,7 @@ cd Ancient_History_AI
 
 ## Set Up Google Cloud Credentials
 
-1. Ensure you have the necessary permissions and credentials set up in Google Cloud.
-2. Enable the Dialogflow CX API.
+1. Enable the Dialogflow CX API. Search "Dialogflow CX API" and hit "Enable".
 
 ## Usage
 
@@ -49,22 +48,18 @@ cd Ancient_History_AI
 2. Select the `Ancient_History_AI` agent.
 3. Use the **Try It Now** panel to interact with the agent.
 
-### Integrate the Agent:
-
-- Integrate the agent with your preferred communication channel (e.g., web, mobile app, Google Assistant).
-
 ## Sample Queries
 
 Here are some sample queries to test with the agent:
 
 - "Tell me about the Egyptian pyramids."
-- "Who was Julius Caesar?"
-- "What was the significance of the Silk Road?"
-- "Describe the daily life in ancient Rome."
+- "Explain some Greek mythology."
+- "What was the oldest ancient civilization?"
+- "What do you know about ancient religions?"
 
 ## Contributing
 
-Contributions are welcome! Please follow these steps to contribute:
+Contributions are welcome! If you would like to add a feature, please follow these steps to contribute:
 
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature-branch`).
