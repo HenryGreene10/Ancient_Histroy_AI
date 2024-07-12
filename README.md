@@ -23,7 +23,7 @@ cd Ancient_History_AI
 
 ### Open Dialogflow CX Console:
 
-- Go to the [Dialogflow CX Console](https://dialogflow.cloud.google.com/).
+- Go to the [Dialogflow CX Console](https://dialogflow.cloud.google.com/cx/projects).
 
 ### Create a New Agent:
 
