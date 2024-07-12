@@ -1,7 +1,7 @@
 # Ancient_Histroy_AI
 VertexAI Chatbot with knowledge of ancient history.
 
-A Dialogflow CX agent for exploring ancient history topics. This agent can answer questions and provide information about various ancient civilizations.
+A Dialogflow CX agent practice exercise to show understanding of cloud technologies and AI.
 
 ## Prerequisites
 
