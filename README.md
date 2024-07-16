@@ -3,7 +3,7 @@ VertexAI Chatbot with knowledge of ancient history.
 
 A Dialogflow CX agent practice exercise to show understanding of cloud technologies and AI.
 
-![Example Image](Ancient_History_AI/Screenshot 2024-07-16 102257.png)
+![Example Image](Screenshot 2024-07-16 102433.png)
 
 ## Prerequisites
 
