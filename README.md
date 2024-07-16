@@ -3,6 +3,8 @@ VertexAI Chatbot with knowledge of ancient history.
 
 A Dialogflow CX agent practice exercise to show understanding of cloud technologies and AI.
 
+![Example Image](Screenshot 2024-07-16 102257.png)
+
 ## Prerequisites
 
 1. Google Cloud account.
