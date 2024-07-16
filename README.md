@@ -35,6 +35,7 @@ cd Ancient_History_AI
 - Click on **Export and Import**.
 - Select **Import**.
 - Upload the `agent.json` file from the cloned repository.
+- Upload the history textbook to a cloud storage bucket
 
 ## Set Up Google Cloud Credentials
 
@@ -53,9 +54,8 @@ cd Ancient_History_AI
 Here are some sample queries to test with the agent:
 
 - "Tell me about the Egyptian pyramids."
-- "Explain some Greek mythology."
+- "Explain something about Greek gods."
 - "What was the oldest ancient civilization?"
-- "What do you know about ancient religions?"
 
 ## Contributing
 
